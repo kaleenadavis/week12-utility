@@ -14,3 +14,6 @@ def ScoreFinder(player_names, player_scores, player_to_find):
 
 
 def Union(list_one, list_two):
+
+
+def Intersection(list_one, list_two):

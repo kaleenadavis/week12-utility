@@ -11,3 +11,6 @@ def FindWordCount(list_input, string_input):
 
 
 def ScoreFinder(player_names, player_scores, player_to_find):
+
+
+def Union(list_one, list_two):

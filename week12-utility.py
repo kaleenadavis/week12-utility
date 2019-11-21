@@ -17,3 +17,7 @@ def Union(list_one, list_two):
 
 
 def Intersection(list_one, list_two):
+
+
+def NotIn(list_one, list_two):
+
